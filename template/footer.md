@@ -1,2 +1,2 @@
 ---
-_Copyright (c) 2025 - My Site_
+_The usual stuff you find in footers_

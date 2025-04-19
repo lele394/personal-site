@@ -1,6 +1,4 @@
-# My Awesome Markdown Site
+# Nebuleo
 <nav>
-  <a href="/">Home</a> |
-  <a href="/blog/post1">First Post</a> |
-  <a href="/tutorials/intro">Tutorial Intro</a>
+  <a href="/">Home</a> 
 </nav>

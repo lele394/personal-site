@@ -1,10 +1,7 @@
-# Welcome to the Site!
 
-This is the main landing page, served from `/public/landing.md`.
+Hello and welcome. This place is where I put all kind of writeups and other informations, tips, tricks, interesting subjects, etc. That I have the pleasure of running into.
 
-Navigate to other sections:
 
-*   [First Blog Post](/blog/post1)
-*   [Tutorial Intro](/tutorials/intro)
-
-Feel free to explore the content available.
+- [Blog](/blog)
+- [Science](/science)
+- [Video Games](/videogames)

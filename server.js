@@ -461,6 +461,16 @@ app.get('*', async (req, res) => {
     }
 });
 
+/* ==================================
+ * Video handling
+ * ================================== */
+app.use(
+    '/media',
+    express.static(DATA_DIR, {
+      extensions: ['mp4', 'webm', 'ogg'],  // so you can omit the extension if you like
+      fallthrough: false                    // 404 if not found, rather than pass to Markdown
+    })
+  );
 
 /* ==================================
  * Server Initialization
